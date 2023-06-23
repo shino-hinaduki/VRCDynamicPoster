@@ -12,7 +12,7 @@ https://azarashino.booth.pm/items/4141397
 ## 使い方
 
 - 本リポジトリを fork します
-- GitHub Action が実行されるように設定し、GitHub Pages として公開します
+- GitHub Action が実行されるように設定し、GitHub Pages として公開します。 公開する branch は gh-pages に設定すること
 - GitHub Pages に公開した URL を、World 向けアセット ([VRCDynamicPosterPrefab](https://github.com/shino-hinaduki/VRCDynamicPosterPrefab)) に設定します
 
 ## 追加方法
